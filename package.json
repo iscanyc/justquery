@@ -1,0 +1,16 @@
+{
+  "name": "justquery",
+  "version": "0.1.0",
+  "description": "justquery is simple query parser.",
+  "homepage": "https://github.com/iscanyc/justquery",
+  "main": "index.js",
+  "keywords": [
+    "query",
+    "tool"
+  ],
+  "author": {
+    "name": "iscanyc",
+    "url": "https://github.com/iscanyc"
+  },
+  "license": "MIT"
+}
