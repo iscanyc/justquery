@@ -1,5 +1,9 @@
 ## Examples
 
+```sh
+npm install justquery
+```
+
 ```js
 const justquery = require("justquery");
 
